@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>auto=true uname=srinivasulu_rnt pword=ATG2dfPQ dbname=dbva99a launch=http://toyota--tst1.custhelp.com/cgi-bin/toyota.cfg</StartArguments>
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\nsrin\AppData\Local\Apps\2.0\RGHA1X99.4OB\2831LLB4.YTH\righ..tst1_d163e684c1e033df_0010.0005_1a6d79ca659499c7\RightNow.CX.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\nsrin\AppData\Local\Apps\2.0\RGHA1X99.4OB\2831LLB4.YTH\righ..tst1_d163e684c1e033df_0010.0005_1a6d79ca659499c7\RightNow.CX.exe</StartProgram>
+  </PropertyGroup>
+</Project>

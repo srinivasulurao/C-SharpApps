@@ -1,0 +1,12 @@
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\bin\Release\RNT_IncidentCopyAddin.dll
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\bin\Release\RNT_IncidentCopyAddin.pdb
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\bin\Release\RightNow.AddIns.AddInViews.dll
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\bin\Release\RightNow.AddIns.AddInViews.xml
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\RNT_IncidentCopyAddin.csprojResolveAssemblyReference.cache
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\IncidentCopyAddin.CopyDetailsButton.resources
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\IncidentCopyAddin.Properties.Resources.resources
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\RNT_IncidentCopyAddin.csproj.GenerateResource.cache
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\RNT_IncidentCopyAddin.csproj.CoreCompileInputs.cache
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\RNT_IncidentCopyAddin.csproj.CopyComplete
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\RNT_IncidentCopyAddin.dll
+D:\C-SharpApps\addins\addins\RNT_IncidentCopyAddin\RNT_IncidentCopyAddin\obj\Release\RNT_IncidentCopyAddin.pdb

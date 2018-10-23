@@ -1,0 +1,15 @@
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe.config
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csprojResolveAssemblyReference.cache
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\MainWindow.g.cs
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\App.g.cs
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator_MarkupCompile.cache
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator_MarkupCompile.lref
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\MainWindow.baml
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.g.resources
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.Properties.Resources.resources
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csproj.GenerateResource.cache
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csproj.CoreCompileInputs.cache
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+D:\C-SharpApps\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb

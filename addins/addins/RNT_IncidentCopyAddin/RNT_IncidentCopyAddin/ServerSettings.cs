@@ -84,7 +84,7 @@ namespace IncidentCopyAddin
             }
         }
 
-        private string _setupTimezone = "Central Standard Time"; //This is basically the default value for the set up. 
+        private string _setupTimezone; //This is basically the default value for the set up. 
 
     } //Class ends here.
 
